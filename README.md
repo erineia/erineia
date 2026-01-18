@@ -42,7 +42,7 @@ Atuo no desenvolvimento e manutenção de scripts automatizados para <b>aplicaç
 - Melhoria contínua em **processos de QA**
 
 ---
-## 📚 Cursando Pós-graduação em Automação de Testes de Software
+## 📚 Pós-graduada em Automação de Testes de Software
 
 ### **Módulos**
 - 01 Pensamento Computacional
