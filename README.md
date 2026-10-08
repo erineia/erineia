@@ -1,74 +1,53 @@
-<div style="background-color:#f0f8ff; padding: 20px; border-radius: 10px;">
+# Olá, eu sou a Neia Silva 👋
 
-<h1 align="center">👋 Olá, eu sou a <span style="color:#FF4500;">Neia Silva</span></h1>
+**Analista de Qualidade de Software | Automação Web e API | IA Generativa aplicada ao QA**
 
-🎯 <b>Analista de Qualidade | Programadora de Automação Web e API</b>  
-💻 <b>Especialista em Java | Selenium | RestAssured | JUnit | Allure Reports</b>  
+Atuo com testes funcionais e automação de aplicações Web e APIs, usando Java, Selenium e RestAssured. Desenvolvo e mantenho automações, preparo massas de dados e integro testes a pipelines de CI/CD para apoiar a qualidade das entregas.
 
----
-## 🚀 Sobre mim
-Sou apaixonada por qualidade de software e automação de testes.  
-Atuo no desenvolvimento e manutenção de scripts automatizados para <b>aplicações web</b> e <b>APIs</b>, garantindo entregas mais rápidas, seguras e eficientes.  
+Também utilizo IA Generativa no dia a dia para apoiar a análise de requisitos, a elaboração de cenários de teste e o desenvolvimento de automações, sempre revisando e validando os resultados.
 
-💡 Busco sempre evoluir e aprender novas tecnologias que ajudem a melhorar a experiência do usuário e a qualidade dos sistemas.
+## Como posso ajudar no seu projeto
 
----
-## 🛠️ Tecnologias e Ferramentas
+- **Testes funcionais:** elaboração e execução de cenários, registro de defeitos e validação de correções.
+- **Automação Web:** criação e manutenção de testes com Selenium WebDriver.
+- **Testes de API:** validação de serviços REST e automação com RestAssured.
+- **Estrutura de automação:** organização de testes, preparação de dados e relatórios com Allure.
+- **CI/CD:** integração da execução dos testes aos pipelines.
+- **IA aplicada ao QA:** apoio à criação e revisão de cenários e código de automação.
 
-### **Linguagem de Programação**
-- ☕ Java (principal)
+**Estou disponível para projetos freelancer em qualidade de software e automação de testes.** Para conversar sobre uma oportunidade, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/erineia-silva-neia-🏳️‍🌈-87544751).
 
-### **Automação de Testes**
-- Selenium WebDriver  
-- RestAssured  
-- JUnit 5  
-- TestNG  
-- Allure Reports  
+## Tecnologias e ferramentas
 
-### **Outras Ferramentas**
-- Maven  
-- Git / GitHub  
-- Jenkins (CI/CD)  
-- Postman  
-- IntelliJ IDEA / Eclipse
-- Visual Studio Code
+| Área | Tecnologias |
+| --- | --- |
+| Linguagem principal | Java |
+| Automação Web | Selenium WebDriver |
+| Automação de API | RestAssured, Postman |
+| Execução e relatórios | JUnit 5, TestNG, Allure Reports |
+| Build e versionamento | Maven, Git, GitHub |
+| CI/CD | GitLab CI/CD, Jenkins |
+| Desenvolvimento | IntelliJ IDEA, Visual Studio Code |
 
----
-## 📈 O que faço
-- Automação de testes **Web** e **API**  
-- Criação e manutenção de **frameworks de testes**  
-- Geração de **relatórios automatizados**  
-- Integração com **pipelines de CI/CD**  
-- Melhoria contínua em **processos de QA**
+## Projetos de automação
 
----
-## 📚 Pós-graduada em Automação de Testes de Software
+Estes repositórios fazem parte da minha trajetória de estudo e prática em automação:
 
-### **Módulos**
-- 01 Pensamento Computacional
-- 02 Algoritmos e Lógica de Programação
-- 03 Programação para Automação de Testes
-- 04 Integração Contínua para Automação de Testes                                              
-- 05 Princípios de Arquitetura de Software    
-- 06 Fundamentos e Padrões de Projeto de Automação de Testes  
-- 07 Automação de Testes na Camada de Serviço (API)
-- 08 Automação de Testes na Camada de Interface (Web)
-- 09 Automação de Testes de Performance   
-- 10 Gestão da Automação de Testes   
-                                                
-## 📚 Cursos extras em andamento
-- Linguagem Python para trabalhar com IA
-- Inglês  
+| Projeto | Área |
+| --- | --- |
+| [Automação Sem Complicação — API](https://github.com/erineia/automacaoSemComplicacaoAPI2.0) | Automação de testes de API em Java |
+| [Automação Sem Complicação — Web](https://github.com/erineia/automacaoSemComplicacaoWeb2.0T3) | Automação de testes Web em Java |
 
----
+Veja também [meus outros repositórios](https://github.com/erineia?tab=repositories).
 
-## 📫 Como me encontrar
-- 💼 [LinkedIn](www.linkedin.com/in/erineia-silva-neia-🏳️‍🌈-87544751)  
-- 📧 **seu.email@email.com**  
-- 🌐 [Meu GitHub](https://github.com/erineia)
+## Formação e aprendizado contínuo
 
----
+- Pós-graduação em **Automação de Testes de Software**.
+- Cursando pós-graduação em **Engenharia de Software em IA Aplicada**.
+- Estudos em Python para IA e inglês.
 
-✨ _"Testar é a ponte entre o que foi criado e o que será usado."_  
+Meu foco é combinar a experiência em qualidade e automação com o uso prático de IA para resolver problemas do dia a dia de QA.
 
-</div>
+## Vamos conversar?
+
+[**LinkedIn**](https://www.linkedin.com/in/erineia-silva-neia-🏳️‍🌈-87544751) · [**GitHub**](https://github.com/erineia)
